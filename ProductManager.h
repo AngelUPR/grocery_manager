@@ -14,4 +14,4 @@ public:
 
     std::map<char, float> checkoutProducts();
 
-};
+}; 
